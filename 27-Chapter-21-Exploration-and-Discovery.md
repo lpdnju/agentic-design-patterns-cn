@@ -92,7 +92,7 @@ The system's operational foundation relies on Gemini, which provides language un
 
 <mark>该系统的运行基础依赖于 Gemini，它提供语言理解、推理和生成能力。该系统采用「测试时计算扩展」机制，该机制分配更多的计算资源以迭代推理并增强输出。该系统处理和综合来自不同来源的信息，包括学术文献、网络数据和数据库。</mark>
 
-![AI Co-Scientist: Ideation to Validation](/images/chapter21_fig1.png)
+![AI Co-Scientist: Ideation to Validation](images/chapter21_fig1.png)
 
 Fig. 1: (Courtesy of the Authors) AI Co-Scientist: Ideation to Validation
 
@@ -376,7 +376,7 @@ In summary, "Agent Laboratory" represents a sophisticated framework for autonomo
 
 <mark><strong>可视化总结：</strong></mark>
 
-![Exploration and Discovery design pattern](/images/chapter21_fig2.png)
+![Exploration and Discovery design pattern](images/chapter21_fig2.png)
 
 Fig.2: Exploration and Discovery design pattern
 

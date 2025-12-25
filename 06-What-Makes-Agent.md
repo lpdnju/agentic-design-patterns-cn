@@ -30,7 +30,7 @@ In simple terms, an **AI agent** is a system designed to perceive its environmen
 
    <mark><strong>学习并改进：</strong>它观察成功的产出并相应地调整自身。例如，如果一个会议被重新安排，系统会从这一事件中学习，以提升其未来的表现。</mark>
 
-![AI Agent Five-Step Loop](/images/fig1.png)
+![AI Agent Five-Step Loop](images/fig1.png)
 
 **Fig.1:** Agentic AI functions as an intelligent assistant, continuously learning through experience. It operates via a straightforward five-step loop to accomplish tasks.
 
@@ -44,7 +44,7 @@ In just two years, the AI paradigm has shifted dramatically, moving from simple 
 
 <mark>仅仅两年时间，AI 的范式就发生了巨大转变，从简单的自动化演进为复杂的自主系统（见图 2）。最初，工作流依赖于基本的提示和触发器来通过大语言模型处理数据。随后，检索增强生成（RAG）的出现提升了系统的可靠性，因为它将模型建立在事实信息之上。接着，我们看到了能够使用各种工具的独立智能体的发展。如今，我们正在进入 AI 智能体的时代，在这个时代里，一个由专业化智能体组成的团队协同工作以实现复杂目标，这标志着AI协作能力的一次重大飞跃。</mark>
 
-![AI Evolution Timeline](/images/fig2.png)
+![AI Evolution Timeline](images/fig2.png)
 
 Fig 2.: Transitioning from LLMs to RAG, then to Agentic RAG, and finally to Agentic AI.
 
@@ -102,7 +102,7 @@ Finally, the agent achieves self-improvement by refining its own context enginee
 
 <mark>最后，智能体通过优化自身的上下文工程流程来实现自我提升。当它就“某个提示本可以如何改进”而征求反馈时，它实际上是在学习如何更好地筛选其初始输入。这使其能够自动改进为未来任务打包信息的方式，从而创建一个强大的自动化反馈循环，随着时间的推移不断提高其准确性和效率。更多详细信息，请参阅第 17 章。</mark>
 
-![Agent Complexity Levels](/images/fig3.png)
+![Agent Complexity Levels](images/fig3.png)
 
 Fig. 3: Various instances demonstrating the spectrum of agent complexity.
 
@@ -148,7 +148,7 @@ For instance, if you're exploring sustainable energy, the agent might identify y
 
 <mark>例如，如果你正在探索可持续能源，智能体可能会识别你的潜在目标，并主动支持它，比如推荐相关课程或总结研究报告。虽然这些系统仍在发展中，但它们的轨迹很清楚。它们将变得越来越主动，并在高度确信该行动会有帮助时，学会代表你采取行动。最终，智能体将成为不可或缺的盟友，帮助你发现并实现那些你尚未完全清晰表达的抱负。</mark>
 
-![Future Agent Hypotheses](/images/fig4.png)
+![Future Agent Hypotheses](images/fig4.png)
 
 **Fig. 4:** Five hypotheses about the future of agents
 

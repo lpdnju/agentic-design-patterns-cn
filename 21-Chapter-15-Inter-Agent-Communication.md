@@ -252,7 +252,7 @@ A2A is a protocol that complements Anthropic's Model Context Protocol (MCP) (see
 
 <mark>A2A 是与 Anthropic 模型上下文协议 (Model Context Protocol, MCP) 互补的协议 (见图 1)。MCP 侧重于为智能体及其与外部数据和工具的交互构建上下文, 而 A2A 则促进智能体之间的协调与通信, 从而实现任务委派和协作。</mark>
 
-![Comparison A2A and MCP Protocols](/images/chapter15_fig1.png)
+![Comparison A2A and MCP Protocols](images/chapter15_fig1.png)
 Fig.1: Comparison A2A and MCP Protocols
 
 <mark>图 1: A2A 和 MCP 协议的比较</mark>
@@ -423,7 +423,7 @@ Rule of thumb: Use this pattern when you need to orchestrate collaboration betwe
 
 <mark>可视化摘要</mark>
 
-![A2A inter-agent communication pattern](/images/chapter15_fig2.png)
+![A2A inter-agent communication pattern](images/chapter15_fig2.png)
 Fig.2: A2A inter-agent communication pattern
 
 <mark>图 2: A2A 智能体间通信模式</mark>

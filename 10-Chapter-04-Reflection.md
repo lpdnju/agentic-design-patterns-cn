@@ -407,13 +407,13 @@ Before concluding, it's important to consider that while the Reflection pattern 
 
 **Visual summary** | <mark><strong>可视化总结</strong></mark>
 
-![Reflection Pattern - Self-Reflection](/images/chapter04_fig1.png)
+![Reflection Pattern - Self-Reflection](images/chapter04_fig1.png)
 
 Fig. 1: Reflection design pattern, self-reflection
 
 <mark>图 1：反思设计模式之自我反思</mark>
 
-![Reflection Pattern - Producer and Critic](/images/chapter04_fig2.png)
+![Reflection Pattern - Producer and Critic](images/chapter04_fig2.png)
 
 Fig.2: Reflection design pattern, producer and critique agent
 

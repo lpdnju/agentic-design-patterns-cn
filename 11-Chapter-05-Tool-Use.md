@@ -156,7 +156,7 @@ Tool Use is what transforms a language model from a text generator into an agent
 
 <mark>工具使用模式将语言模型从文本生成器变成能够在数字或现实世界中感知、推理和行动的智能体（见图 1）。</mark>
 
-![Tool Use Examples](/images/chapter05_fig1.jpg)
+![Tool Use Examples](images/chapter05_fig1.jpg)
 
 Fig.1: Some examples of an Agent using Tools
 
@@ -815,7 +815,7 @@ Overall, this code provides a basic framework for building a conversational AI a
 
 **Visual summary:** | <mark><strong>可视化总结：</strong></mark>
 
-![Tool Use Design Pattern](/images/chapter05_fig2.jpg)
+![Tool Use Design Pattern](images/chapter05_fig2.jpg)
 
 Fig.2: Tool use design pattern
 

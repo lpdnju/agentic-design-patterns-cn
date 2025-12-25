@@ -52,7 +52,7 @@ For instance, the phrases "a furry feline companion" and "a domestic cat" have n
 
 <mark>例如，「a furry feline companion」和「a domestic cat」除了「a」之外没有共同的词语。然而，一个理解语义相似度的模型会识别出它们指的是同一事物，并认为它们高度相似。这是因为它们的嵌入在向量空间中会非常接近，表明语义距离很小，这正是「智能搜索」的体现。有了它，即使在用户的措辞与知识库中的文本不完全匹配时，RAG 也能找到相关信息。</mark>
 
-![](/images/chapter14_fig1.png "RAG Core Concepts")
+![](images/chapter14_fig1.png "RAG Core Concepts")
 
 Fig.1: RAG Core Concepts: Chunking, Embeddings, and Vector Database
 <mark><strong>图 1：</strong>RAG 核心概念：分块、嵌入和向量数据库</mark>
@@ -117,7 +117,7 @@ First, an agent excels at reflection and source validation. If a user asks, "Wha
 
 <mark>首先，智能体擅长反思和来源验证。如果用户问：「我们公司关于远程工作的政策是什么？」标准的 RAG 可能会同时找出一篇 2020 年的博客文章和 2025 年的官方政策文件。智能体则会分析这些文件的元数据，识别出 2025 年的政策是最新、最权威的来源，并舍弃掉过时的博客文章，只将正确的上下文发送给 LLM 以获得精确答案。</mark>
 
-![](/images/chapter14_fig2.png "Agentic RAG")
+![](images/chapter14_fig2.png "Agentic RAG")
 Fig.2: Agentic RAG introduces a reasoning agent that actively evaluates, reconciles, and refines retrieved information to ensure a more accurate and trustworthy final response.
 
 <mark><strong>图 2：</strong>智能体式 RAG 引入了一个推理智能体，主动评估、协调和提炼检索到的信息，以确保最终响应更准确、更可信。</mark>
@@ -387,11 +387,11 @@ Rule of thumb: Use this pattern when you need an LLM to answer questions or gene
 
 ## Visual Summary | <mark>可视化总结</mark>
 
-![](/images/chapter14_fig3.png "Knowledge Retrieval Pattern-Database")
+![](images/chapter14_fig3.png "Knowledge Retrieval Pattern-Database")
 Knowledge Retrieval pattern: an AI agent to query and retrieve information from structured databases
 <mark>知识检索模式：一个 AI 智能体查询和检索来自结构化数据库的信息。</mark> 
 
-![](/images/chapter14_fig4.png "Knowledge Retrieval Pattern-Web")
+![](images/chapter14_fig4.png "Knowledge Retrieval Pattern-Web")
 Fig. 3: Knowledge Retrieval pattern: an AI agent to find and synthesize information from the public internet in response to user queries.
 
 <mark><strong>图 3：</strong>知识检索模式：一个 AI 智能体根据用户查询从公共互联网上查找和综合信息。</mark>

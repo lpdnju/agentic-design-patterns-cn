@@ -502,7 +502,7 @@ To begin, open a new terminal and run `python fastmcp_server.py` to start the Fa
 
 **Visual summary** | <mark><strong>可视化总结</strong></mark>
 
-![Model Context protocol](/images/chapter10_fig1.png)
+![Model Context protocol](images/chapter10_fig1.png)
 
 Fig.1: Model Context protocol
 

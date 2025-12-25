@@ -386,7 +386,7 @@ Context Engineering (see Fig.1) is the systematic discipline of designing, const
 
 <mark>上下文工程（Context Engineering，见图 1）是一门系统性的学科，它研究的是在 AI 模型生成词元（Token）之前，如何为其设计、构建并提供一个完整的信息环境。这一方法论主张，模型输出的质量与其说取决于模型自身的架构，不如说更依赖于所提供上下文的丰富程度。</mark>
 
-![上下文工程](/images/chapter01_fig1.png)
+![上下文工程](images/chapter01_fig1.png)
 
 Fig.1: Context Engineering is the discipline of building a rich, comprehensive informational environment for an AI, as the quality of this context is a primary factor in enabling advanced Agentic performance.
 
@@ -428,7 +428,7 @@ This structured approach is what differentiates a rudimentary AI tool from a mor
 
 **Visual summary** | <mark>可视化总结</mark>
 
-![可视化总结](/images/chapter01_fig2.png)
+![可视化总结](images/chapter01_fig2.png)
 
 Fig. 2: Prompt Chaining Pattern: Agents receive a series of prompts from the user, with the output of each agent serving as the input for the next in the chain.
 

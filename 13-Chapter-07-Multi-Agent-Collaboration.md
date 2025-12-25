@@ -58,7 +58,7 @@ A multi-agent system (see Fig.1) fundamentally comprises the delineation of agen
 
 <mark>多智能体系统（见图 1）的设计主要包括三个方面：明确每个智能体的角色和职责、建立用于信息交换的通信通道，以及制定引导它们协同工作的任务流程或交互协议。</mark>
 
-![Multi-Agent System Example](/images/chapter07_fig1.png)
+![Multi-Agent System Example](images/chapter07_fig1.png)
 
 Fig.1: Example of multi-agent system
 
@@ -146,7 +146,7 @@ The "Hierarchical" model expands upon the supervisor concept to create a multi-l
 
 <mark>「层级」模型基于监督者概念创建了一个多层组织结构：高层级的监督者负责监督低层级监督者，最底层则由具体的执行智能体组成。该架构非常适合于可以拆分为若干子问题的复杂任务，每一层负责管理特定的子问题。通过这种分层管理，它为应对复杂性和实现可扩展性提供了清晰的结构，并允许在既定边界内进行分工决策。</mark>
 
-![Agent Communication Models](/images/chapter07_fig2.png)
+![Agent Communication Models](images/chapter07_fig2.png)
 
 Fig. 2: Agents communicate and interact in various ways.
 
@@ -614,7 +614,7 @@ artist_agent = LlmAgent(
 
 **Visual summary:** | <mark>可视化总结：</mark>
 
-![Multi-Agent Design Pattern](/images/chapter07_fig3.png)
+![Multi-Agent Design Pattern](images/chapter07_fig3.png)
 
 Fig.3: Multi-Agent design pattern
 

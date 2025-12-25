@@ -64,7 +64,7 @@ Implementing parallelization often requires frameworks that support asynchronous
 
 <mark>实现并行化通常需要使用支持异步执行、多线程或多进程的框架。现代智能体框架原生都能支持异步操作，帮助你方便地定义并同时运行多个步骤。</mark>
 
-![Parallelization Example](/images/chapter03_fig1.png)
+![Parallelization Example](images/chapter03_fig1.png)
 
 Fig.1. Example of parallelization with sub-agents
 
@@ -597,7 +597,7 @@ Finally, a SequentialAgent named ResearchAndSynthesisPipeline is created to orch
 
 **Visual summary** | <mark><strong>可视化总结</strong></mark>
 
-![Parallelization Pattern](/images/chapter03_fig2.jpg)
+![Parallelization Pattern](images/chapter03_fig2.jpg)
 
 Fig.2: Parallelization design pattern
 

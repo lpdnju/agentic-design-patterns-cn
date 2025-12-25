@@ -470,7 +470,7 @@ The main function demonstrates the system's usage by running the coordinator wit
 
 **Visual summary** | <mark>可视化总结</mark>
 
-![可视化总结](/images/chapter02_fig1.jpg)
+![可视化总结](images/chapter02_fig1.jpg)
 
 Fig.1: Router pattern, using an LLM as a Router
 
