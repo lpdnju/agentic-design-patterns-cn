@@ -14,7 +14,7 @@ git push origin main
 
 ### Step 2: Enable GitHub Pages
 
-1. Go to your repository on GitHub: https://github.com/ginobefun/agentic-design-patterns-cn
+1. Go to your repository on GitHub: https://github.com/lpdnju/agentic-design-patterns-cn
 2. Navigate to **Settings** → **Pages**
 3. Under "Build and deployment":
    - **Source**: Select "GitHub Actions"
@@ -24,7 +24,7 @@ git push origin main
 
 After the first successful deployment (usually 2-3 minutes), your site will be available at:
 
-**https://ginobefun.github.io/agentic-design-patterns-cn/**
+**https://lpdnju.github.io/agentic-design-patterns-cn/**
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Agentic Design Patterns | 智能体设计模式"
 description: "A Hands-On Guide to Building Intelligent Systems | 构建智能系统的实践指南"
 baseurl: "/agentic-design-patterns-cn"
-url: "https://ginobefun.github.io"
+url: "https://lpdnju.github.io"
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.10.0
@@ -78,7 +78,7 @@ aux_links:
   "📖 原书链接 | Original Book":
     - "https://www.amazon.com/Agentic-Design-Patterns-Hands-Intelligent/dp/3032014018/"
   "GitHub":
-    - "https://github.com/ginobefun/agentic-design-patterns-cn"
+    - "https://github.com/lpdnju/agentic-design-patterns-cn"
 
 aux_links_new_tab: true
 

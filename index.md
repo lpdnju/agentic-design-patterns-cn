@@ -16,7 +16,7 @@ A Hands-On Guide to Building Intelligent Systems | <mark>构建智能系统的�
 [![GitHub stars](https://img.shields.io/github/stars/ginobefun/agentic-design-patterns-cn)](https://github.com/ginobefun/agentic-design-patterns-cn/stargazers)
 
 [开始阅读 Start Reading](#table-of-contents){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View on GitHub](https://github.com/ginobefun/agentic-design-patterns-cn){: .btn .fs-5 .mb-4 .mb-md-0 }
+[View on GitHub](https://github.com/lpdnju/agentic-design-patterns-cn){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -111,9 +111,9 @@ This book covers 21 agent design patterns and multiple appendices, totaling **42
 
 ## 🤝 贡献指南 | Contributing
 
-欢迎参与翻译和校对工作！请参阅 [GitHub 仓库](https://github.com/ginobefun/agentic-design-patterns-cn) 了解贡献方式。
+欢迎参与翻译和校对工作！请参阅 [GitHub 仓库](https://github.com/lpdnju/agentic-design-patterns-cn) 了解贡献方式。
 
-Contributions are welcome! Please visit our [GitHub repository](https://github.com/ginobefun/agentic-design-patterns-cn) to learn how to contribute.
+Contributions are welcome! Please visit our [GitHub repository](https://github.com/lpdnju/agentic-design-patterns-cn) to learn how to contribute.
 
 ---
 
