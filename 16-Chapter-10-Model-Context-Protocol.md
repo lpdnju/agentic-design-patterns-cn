@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 10 Model Context Protocol"
+nav_order: 18
+---
+
 # Chapter 10: Model Context Protocol | <mark>第 10 章：模型上下文协议</mark>
 
 To enable LLMs to function effectively as agents, their capabilities must extend beyond multimodal generation. Interaction with the external environment is necessary, including access to current data, utilization of external software, and execution of specific operational tasks. The Model Context Protocol (MCP) addresses this need by providing a standardized interface for LLMs to interface with external resources. This protocol serves as a key mechanism to facilitate consistent and predictable integration.

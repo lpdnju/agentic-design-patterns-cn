@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Foreword"
+nav_order: 5
+---
+
 # Foreword | <mark>序言</mark>
 
 The field of artificial intelligence is at a fascinating inflection point. We are moving beyond building models that can simply process information to creating intelligent systems that can reason, plan, and act to achieve complex goals with ambiguous tasks. These "agentic" systems, as this book so aptly describes them, represent the next frontier in AI, and their development is a challenge that excites and inspires us at Google.
@@ -26,3 +32,4 @@ I am thrilled to see this book in the hands of the developer community. The patt
 <mark><strong>Saurabh Tiwary</strong></mark>  
 <br/>
 <mark><strong>Google CloudAI 副总裁兼总经理</strong></mark>
+

@@ -40,11 +40,19 @@ collections:
     permalink: "/:collection/:path/"
     output: true
 
-# Defaults
+# Defaults - apply layout to all markdown files
 defaults:
   - scope:
       path: ""
       type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: "*.md"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
     values:
       layout: "default"
 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 02 Routing"
+nav_order: 10
+---
+
 # Chapter 2: Routing | <mark>第二章：路由</mark>
 
 ## Routing Pattern Overview | <mark>路由模式概述</mark>
@@ -521,3 +527,4 @@ Mastering the Routing pattern is essential for building agents that can intellig
 2. Google Agent Developer Kit Documentation: [https://google.github.io/adk-docs/](https://google.github.io/adk-docs/)
 
    <mark>谷歌智能体开发套件官方文档：[https://google.github.io/adk-docs/](https://google.github.io/adk-docs/)</mark>
+

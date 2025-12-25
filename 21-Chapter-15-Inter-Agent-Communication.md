@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 15 Inter Agent Communication"
+nav_order: 23
+---
+
 # Chapter 15: Inter-Agent Communication (A2A) | <mark>第 15 章: 智能体间通信 (A2A)</mark>
 
 Individual AI agents often face limitations when tackling complex, multifaceted problems, even with advanced capabilities. To overcome this, Inter-Agent Communication (A2A) enables diverse AI agents, potentially built with different frameworks, to collaborate effectively. This collaboration involves seamless coordination, task delegation, and information exchange. Google's A2A protocol is an open standard designed to facilitate this universal communication. This chapter will explore A2A, its practical applications, and its implementation within the Google ADK.

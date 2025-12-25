@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 21 Exploration and Discovery"
+nav_order: 29
+---
+
 # Chapter 21: Exploration and Discovery | <mark>第二十一章：探索与发现</mark>
 
 This chapter explores patterns that enable intelligent agents to actively seek out novel information, uncover new possibilities, and identify unknown unknowns within their operational environment. Exploration and discovery differ from reactive behaviors or optimization within a predefined solution space. Instead, they focus on agents proactively venturing into unfamiliar territories, experimenting with new approaches, and generating new knowledge or understanding. This pattern is crucial for agents operating in open-ended, complex, or rapidly evolving domains where static knowledge or pre-programmed solutions are insufficient. It emphasizes the agent's capacity to expand its understanding and capabilities.
@@ -427,3 +433,4 @@ Frameworks like Agent Laboratory further structure this by creating an agentic h
 4. AgentRxiv: Towards Collaborative Autonomous Research: <https://agentrxiv.github.io/>
 
    <mark>AgentRxiv：迈向协作式自主研究：<https://agentrxiv.github.io/></mark>
+

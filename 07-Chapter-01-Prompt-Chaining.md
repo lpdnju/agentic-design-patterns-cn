@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 01 Prompt Chaining"
+nav_order: 9
+---
+
 # Chapter 1: Prompt Chaining | <mark>第一章：提示链</mark>
 
 ## Prompt Chaining Pattern Overview | <mark>提示链模式概述</mark>
@@ -493,3 +499,4 @@ By deconstructing complex problems into a sequence of simpler, more manageable s
 7. Vertex Prompt Optimizer: [https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/prompt-optimizer](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/prompt-optimizer)
 
    <mark>Vertex AI 提示优化器：[https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/prompt-optimizer](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/prompt-optimizer)</mark>
+

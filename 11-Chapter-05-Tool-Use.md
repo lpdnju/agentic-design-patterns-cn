@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 05 Tool Use"
+nav_order: 13
+---
+
 # Chapter 5: Tool Use (Function Calling) | <mark>第五章：工具使用（函数调用）</mark>
 
 ## Tool Use Pattern Overview | <mark>工具使用模式概述</mark>
@@ -876,3 +882,4 @@ The Tool Use pattern is a critical architectural principle for extending the fun
 4. CrewAI Documentation (Tools): <https://docs.crewai.com/concepts/tools>
 
    <mark>CrewAI 文档（工具使用）：<https://docs.crewai.com/concepts/tools></mark>
+

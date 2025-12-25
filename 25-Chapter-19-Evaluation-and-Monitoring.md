@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 19 Evaluation and Monitoring"
+nav_order: 27
+---
+
 # Chapter 19: Evaluation and Monitoring | <mark>第 19 章：评估与监控</mark>
 
 This chapter examines methodologies that allow intelligent agents to systematically assess their performance, monitor progress toward goals, and detect operational anomalies. While Chapter 11 outlines goal setting and monitoring, and Chapter 17 addresses Reasoning mechanisms, this chapter focuses on the continuous, often external, measurement of an agent's effectiveness, efficiency, and compliance with requirements. This includes defining metrics, establishing feedback loops, and implementing reporting systems to ensure agent performance aligns with expectations in operational environments (see Fig.1)

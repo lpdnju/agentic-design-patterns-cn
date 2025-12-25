@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Appendix D-Building an Agent with AgentSpace"
+nav_order: 100
+---
+
 # Appendix D-Building an Agent with AgentSpace** | <mark>附录D: 基于AgentSpace构建智能体</mark>
 
 **Agentspace现已更名为Gemini Enterprise;考虑与原文保持一致的原则，本译文仍继续采用AgentSpace名称。
@@ -103,4 +109,5 @@ This approach abstracts the underlying technical complexity, enabling the constr
 2. Google Cloud Skills Boost,[https://www.cloudskillsboost.google/](https://www.cloudskillsboost.google/)
 
       <mark>Google Cloud Skills Boost,[https://www.cloudskillsboost.google/](https://www.cloudskillsboost.google/)</mark>
+
 

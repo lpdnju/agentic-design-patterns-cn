@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Appendix F-Under the Hood-An Inside Look at the Agents’ Reasoning Engines 附录 F - 深入探究：智能体推理引擎的内部视角"
+nav_order: 100
+---
+
 The emergence of intelligent Agents represents a pivotal shift in artificial intelligence. These are systems designed to plan, strategize, and execute complex tasks, and at the cognitive core of each lies a LLM. This LLM is not merely a sophisticated text generator; it serves as the foundational reasoning engine, the central "mind" that empowers the Agent to make decisions, formulate plans, and interact with its environment.
 
 <mark>智能体（Agent）的出现代表了人工智能领域的一个关键转变。这些系统旨在规划、制定策略并执行复杂任务，而每一个智能体的认知核心都是一个大语言模型（LLM）。这个 LLM 不仅仅是一个复杂的文本生成器；它充当着基础推理引擎，一个中央「心智」，赋予智能体做出决策、制定计划以及与环境互动的能力。</mark>
@@ -728,3 +734,4 @@ An analysis of these prominent LLMs reveals a remarkably consistent, multi-stage
 It is precisely this systematic, step-by-step procedure that makes these LLMs powerful core reasoning engines for autonomous Agents. An Agent requires a reliable central planner to decompose high-level goals into a sequence of discrete, executable actions. The LLM serves as this computational mind, simulating a logical progression from problem to solution. By formulating strategies, evaluating options, and generating structured output, the LLM empowers an Agent to interact with tools and its environment effectively. Therefore, these models are not merely text generators but the foundational cognitive architecture driving the next generation of intelligent systems. Ultimately, advancing the reliability of this simulated reasoning is paramount to developing more capable and trustworthy AI Agents.
 
 <mark>正是这种系统性的、分步的程序，使这些 LLM 成为自主智能体（Agent）强大的核心推理引擎。一个智能体需要一个可靠的中央规划器，将高阶目标分解为一系列离散的、可执行的动作。LLM 充当了这个计算心智，模拟了从问题到解决方案的逻辑过程。通过制定策略、评估选项和生成结构化输出，LLM 使智能体能够有效地与工具及环境互动。因此，这些模型不仅仅是文本生成器，更是驱动下一代智能系统的基础认知架构。最终，提高这种模拟推理的可靠性，对于开发能力更强、更值得信赖的 AI 智能体至关重要。</mark>
+

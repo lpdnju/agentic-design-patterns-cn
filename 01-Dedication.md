@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Dedication"
+nav_order: 3
+---
+
 # Dedication | <mark>献辞</mark>
 
 To my son, Bruno,
@@ -25,3 +31,4 @@ With all my love.
 <mark>这本书讨论如何构建智能工具，却寄托着更深的愿望：愿你们这一代以智慧与慈悲引导它们。只要我们学会让这些强大的技术服务于人类、推动人类进步，未来必将灿烂——属于你们，也属于我们所有人。</mark>
 
 <mark>献上我全部的爱。</mark>
+

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Acknowledgment"
+nav_order: 4
+---
+
 # Acknowledgment | <mark>致谢</mark>
 
 I would like to express my sincere gratitude to the many individuals and teams who made this book possible.
@@ -65,3 +71,4 @@ This project truly would not have been possible without you. All the credit goes
 *All my royalties are donated to Save the Children.*
 
 <mark><em>我的所有版税均捐赠给救助儿童会。</em></mark>
+

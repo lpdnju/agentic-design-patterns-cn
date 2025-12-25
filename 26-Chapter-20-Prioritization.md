@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 20 Prioritization"
+nav_order: 28
+---
+
 # Chapter 20: Prioritization | <mark>第二十章：优先级排序</mark>
 
 In complex, dynamic environments, Agents frequently encounter numerous potential actions, conflicting goals, and limited resources. Without a defined process for determining the subsequent action, the agents may experience reduced efficiency, operational delays, or failures to achieve key objectives. The prioritization pattern addresses this issue by enabling agents to assess and rank tasks, objectives, or actions based on their significance, urgency, dependencies, and established criteria. This ensures the agents concentrate efforts on the most critical tasks, resulting in enhanced effectiveness and goal alignment.
@@ -335,4 +341,5 @@ A key feature of this agentic behavior is dynamic re-prioritization, which grant
 2. AI-Driven Decision Support Systems in Agile Software Project Management: Enhancing Risk Mitigation and Resource Allocation; [https://www.mdpi.com/2079-8954/13/3/208](https://www.mdpi.com/2079-8954/13/3/208)
 
    <mark>敏捷软件项目管理中的 AI 驱动决策支持系统：增强风险缓解与资源分配</mark>  
+
 

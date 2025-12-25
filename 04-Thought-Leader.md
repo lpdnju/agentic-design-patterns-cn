@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Thought Leader"
+nav_order: 6
+---
+
 # A Thought Leader's Perspective: Power and Responsibility | <mark>思想领袖的洞见：权力与责任</mark>
 
 Of all the technology cycles I've witnessed over the past four decades—from the birth of the personal computer and the web, to the revolutions in mobile and cloud—none has felt quite like this one. For years, the discourse around Artificial Intelligence was a familiar rhythm of hype and disillusionment, the so-called "AI summers" followed by long, cold winters. But this time, something is different. The conversation has palpably shifted. If the last eighteen months were about the engine -the breathtaking, almost vertical ascent of Large Language Models (LLMs)- the next era will be about the car we build around it. It will be about the frameworks that harness this raw power, transforming it from a generator of plausible text into a true agent of action.
@@ -49,3 +55,4 @@ Enjoy the journey.
 <mark><strong>Marco Argenti，高盛首席信息官（CIO）</strong></mark>
 
 ---
+

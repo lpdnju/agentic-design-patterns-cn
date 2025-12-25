@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 12 Exception Handling and Recovery"
+nav_order: 17
+---
+
 # Chapter 12: Exception Handling and Recovery | <mark>第 12 章：异常处理与恢复</mark>
 
 For AI agents to operate reliably in diverse real-world environments, they must be able to manage unforeseen situations, errors, and malfunctions. Just as humans adapt to unexpected obstacles, intelligent agents need robust systems to detect problems, initiate recovery procedures, or at least ensure controlled failure. This essential requirement forms the basis of the Exception Handling and Recovery pattern.
@@ -206,3 +212,4 @@ This chapter explores the Exception Handling and Recovery pattern, which is esse
 3. O'Neill, V. (2022). Improving Fault Tolerance and Reliability of Heterogeneous Multi-Agent IoT Systems Using Intelligence Transfer. Electronics, 11(17), 2724.
     
 <mark>3. O'Neill, V. (2022). 利用智能迁移提高异构多智能体物联网系统的容错性和可靠性。Electronics, 11(17), 2724。</mark>
+

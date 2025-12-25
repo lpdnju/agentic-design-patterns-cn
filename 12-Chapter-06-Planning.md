@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 06 Planning"
+nav_order: 14
+---
+
 # Chapter 6: Planning | <mark>第六章：规划</mark>
 
 Intelligent behavior often involves more than just reacting to the immediate input. It requires foresight, breaking down complex tasks into smaller, manageable steps, and strategizing how to achieve a desired outcome. This is where the Planning pattern comes into play. At its core, planning is the ability for an agent or a system of agents to formulate a sequence of actions to move from an initial state towards a goal state.
@@ -376,3 +382,4 @@ In conclusion, the Planning pattern is a foundational component that elevates ag
 3. Perplexity, Introducing Perplexity Deep Research: [https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research](https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research)
 
    <mark>Perplexity 深度研究介绍：[https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research](https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research)</mark>
+

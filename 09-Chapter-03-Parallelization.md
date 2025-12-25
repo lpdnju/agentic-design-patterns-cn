@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 03 Parallelization"
+nav_order: 11
+---
+
 # Chapter 3: Parallelization | <mark>第三章：并行化</mark>
 
 ## Parallelization Pattern Overview | <mark>并行模式概述</mark>
@@ -668,3 +674,4 @@ Here are some resources for further reading on the Parallelization pattern and r
 3. Python asyncio Documentation: [https://docs.python.org/3/library/asyncio.html](https://docs.python.org/3/library/asyncio.html)
 
    <mark>Python asyncio 文档：[https://docs.python.org/3/library/asyncio.html](https://docs.python.org/3/library/asyncio.html)</mark>
+

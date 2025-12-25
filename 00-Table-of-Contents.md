@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Table of Contents"
+nav_order: 2
+---
+
 # Agentic Design Patterns | <mark>智能体设计模式</mark>
 
 A Hands-On Guide to Building Intelligent Systems | <mark>构建智能系统的实践指南</mark>
@@ -127,3 +133,4 @@ https://www.amazon.com/Agentic-Design-Patterns-Hands-Intelligent/dp/3032014018/
 All my royalties will be donated to Save the Children.
 
 <mark>本书的所有版税将捐赠给救助儿童会（Save the Children）。</mark>
+

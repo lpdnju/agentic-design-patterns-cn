@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 04 Reflection"
+nav_order: 12
+---
+
 # Chapter 4: Reflection | <mark>第四章：反思</mark>
 
 ## Reflection Pattern Overview | <mark>反思模式概述</mark>
@@ -480,3 +486,4 @@ Here are some resources for further reading on the Reflection pattern and relate
 4. Google Agent Developer Kit (ADK) Documentation (Multi-Agent Systems): [https://google.github.io/adk-docs/agents/multi-agents/](https://google.github.io/adk-docs/agents/multi-agents/)
 
    <mark>Google 智能体开发套件 (ADK) 文档（多智能体系统）：[https://google.github.io/adk-docs/agents/multi-agents/](https://google.github.io/adk-docs/agents/multi-agents/)</mark>
+

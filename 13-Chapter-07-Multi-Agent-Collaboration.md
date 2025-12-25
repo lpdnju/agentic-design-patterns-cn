@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 07 Multi Agent Collaboration"
+nav_order: 15
+---
+
 # Chapter 7: Multi-Agent Collaboration | <mark>第七章：多智能体协作</mark>
 
 While a monolithic agent architecture can be effective for well-defined problems, its capabilities are often constrained when faced with complex, multi-domain tasks. The Multi-Agent Collaboration pattern addresses these limitations by structuring a system as a cooperative ensemble of distinct, specialized agents. This approach is predicated on the principle of task decomposition, where a high-level objective is broken down into discrete sub-problems. Each sub-problem is then assigned to an agent possessing the specific tools, data access, or reasoning capabilities best suited for that task.
@@ -653,3 +659,4 @@ This chapter explored the Multi-Agent Collaboration pattern, demonstrating the b
 2. Multi-Agent System — The Power of Collaboration, [https://aravindakumar.medium.com/introducing-multi-agent-frameworks-the-power-of-collaboration-e9db31bba1b6](https://aravindakumar.medium.com/introducing-multi-agent-frameworks-the-power-of-collaboration-e9db31bba1b6)
 
    <mark>多智能体系统 -- 协作的力量，[https://aravindakumar.medium.com/introducing-multi-agent-frameworks-the-power-of-collaboration-e9db31bba1b6](https://aravindakumar.medium.com/introducing-multi-agent-frameworks-the-power-of-collaboration-e9db31bba1b6)</mark>
+

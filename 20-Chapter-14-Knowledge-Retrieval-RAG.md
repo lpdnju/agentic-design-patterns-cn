@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 14 Knowledge Retrieval RAG"
+nav_order: 22
+---
+
 # Chapter 14: Knowledge Retrieval (RAG) | <mark>第 14 章：知识检索（RAG）</mark>
 
 LLMs exhibit substantial capabilities in generating human-like text. However, their knowledge base is typically confined to the data on which they were trained, limiting their access to real-time information, specific company data, or highly specialized details. Knowledge Retrieval (RAG, or Retrieval Augmented Generation), addresses this limitation. RAG enables LLMs to access and integrate external, current, and context-specific information, thereby enhancing the accuracy, relevance, and factual basis of their outputs.
@@ -443,3 +449,4 @@ LangChain and LangGraph: Leonie Monigatti, "Retrieval-Augmented Generation (RAG)
 
 Google Cloud Vertex AI RAG Corpus https://cloud.google.com/vertex-ai/generative-ai/docs/rag-engine/manage-your-rag-corpus#corpus-management 
 <mark>Google Cloud Vertex AI RAG 语料库 https://cloud.google.com/vertex-ai/generative-ai/docs/rag-engine/manage-your-rag-corpus#corpus-management</mark>
+

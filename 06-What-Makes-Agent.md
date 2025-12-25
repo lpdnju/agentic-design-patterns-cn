@@ -1,3 +1,9 @@
+---
+layout: default
+title: "What Makes Agent"
+nav_order: 8
+---
+
 # What makes an AI system an Agent? | <mark>是什么让 AI 系统成为「智能体」？</mark>
 
 In simple terms, an **AI agent** is a system designed to perceive its environment and take actions to achieve a specific goal. It's an evolution from a standard Large Language Model (LLM), enhanced with the abilities to plan, use tools, and interact with its surroundings. Think of an Agentic AI as a smart assistant that learns on the job. It follows a simple, five-step loop to get things done (see Fig.1):
@@ -205,3 +211,4 @@ In essence, an AI agent represents a significant leap from traditional models, f
 3. Market.us. Global Agentic AI Market Size, Trends and Forecast 2025–2034. [https://market.us/report/agentic-ai-market/](https://market.us/report/agentic-ai-market/)
 
    <mark>Market.us. 全球智能体 AI 市场规模、趋势和 2025-2034 年预测。</mark>
+

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Appendix C - Quick overview of Agentic Frameworks"
+nav_order: 100
+---
+
 # Appendix C - Quick overview of Agentic Frameworks | <mark>附录C: 智能体框架快速概览</mark>
 
 
@@ -235,5 +241,6 @@ The landscape of agentic frameworks offers a diverse spectrum of tools, from low
 2. LangGraph, https://www.langchain.com/langgraph 
 3. Google's ADK, https://google.github.io/adk-docs/ 
 4. Crew.AI, https://docs.crewai.com/en/introduction 
+
 
 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 16 Resource Aware Optimization"
+nav_order: 24
+---
+
 # Chapter 16: Resource-Aware Optimization | <mark>第 16 章：资源感知优化</mark>
 
 Resource-Aware Optimization enables intelligent agents to dynamically monitor and manage computational, temporal, and financial resources during operation. This differs from simple planning, which primarily focuses on action sequencing. Resource-Aware Optimization requires agents to make decisions regarding action execution to achieve goals within specified resource budgets or to optimize efficiency. This involves choosing between more accurate but expensive models and faster, lower-cost ones, or deciding whether to allocate additional compute for a more refined response versus returning a quicker, less detailed answer.
@@ -507,4 +513,5 @@ Resource-aware optimization is essential for the development of intelligent agen
 1. <mark>Google 智能体开发工具包（ADK）：[google.github.io/adk-docs](https://google.github.io/adk-docs/)</mark>
 2. <mark>Gemini Flash 2.5 和 Gemini 2.5 Pro：[aistudio.google.com](https://aistudio.google.com/)</mark>
 3. <mark>OpenRouter：[openrouter.ai/docs/quickstart](https://openrouter.ai/docs/quickstart)</mark>
+
 

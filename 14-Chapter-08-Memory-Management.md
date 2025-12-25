@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 08 Memory Management"
+nav_order: 16
+---
+
 # Chapter 8: Memory Management | <mark>第 8 章：记忆管理</mark>
 
 Effective memory management is crucial for intelligent agents to retain information. Agents require different types of memory, much like humans, to operate efficiently. This chapter delves into memory management, specifically addressing the immediate (short-term) and persistent (long-term) memory requirements of agents.
@@ -786,3 +792,4 @@ This chapter dove into the really important job of memory management for agent s
 3. Vertex AI Agent Engine Memory Bank: <https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-memory-bank-in-public-preview>
 
    <mark>Vertex AI 智能体引擎的 Memory Bank：<https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-memory-bank-in-public-preview></mark>
+

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 13 Human in the Loop"
+nav_order: 21
+---
+
 # Chapter 13: Human-in-the-Loop | <mark>第 13 章：人机协同</mark>
 
 The Human-in-the-Loop (HITL) pattern represents a pivotal strategy in the development and deployment of Agents. It deliberately interweaves the unique strengths of human cognition—such as judgment, creativity, and nuanced understanding—with the computational power and efficiency of AI. This strategic integration is not merely an option but often a necessity, especially as AI systems become increasingly embedded in critical decision-making processes.
@@ -226,3 +232,4 @@ This chapter explored the vital Human-in-the-Loop (HITL) pattern, emphasizing it
 1. A Survey of Human-in-the-loop for Machine Learning, Xingjiao Wu, Luwei Xiao, Yixuan Sun, Junhang Zhang, Tianlong Ma, Liang He, [https://arxiv.org/abs/2108.00941](https://arxiv.org/abs/2108.00941)
 
   <mark>《机器学习中的人机协同综述》，Xingjiao Wu, Luwei Xiao, Yixuan Sun, Junhang Zhang, Tianlong Ma, Liang He, [https://arxiv.org/abs/2108.00941](https://arxiv.org/abs/2108.00941)</mark>
+

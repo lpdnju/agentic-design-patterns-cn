@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Introduction"
+nav_order: 7
+---
+
 # Introduction | <mark>介绍</mark>
 
 ## Preface | <mark>前言</mark>
@@ -111,3 +117,4 @@ By the end of this book, you will not only understand the fundamental concepts b
 <mark>在读完本书时，你不仅将理解 21 种关键智能体设计模式的基本理念，还将收获足以落地的实践知识与代码示例，助你在所选「画布」上高效应用这些模式，构建更智能、更强大、更具自主性的系统。让我们开始这段动手实践之旅吧！</mark>
 
 ---
+
